@@ -1,0 +1,57 @@
+/********** GENERAL CODES **********/
+body {
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h1 {
+    color:#8B0000;
+}
+h2 {
+    color: #722FF8;
+}
+h3 {
+    color: #BB921B;
+}
+h4{
+    color: #246983;
+}
+/********** Nav-Bar **********/
+.header{
+    text-align: center;
+}
+.nav{
+    position: relative;
+    text-align: center;    
+}
+.nav li{
+    padding: 20px;
+    display: inline;
+}
+/********** Content **********/
+.section1 h2{
+    text-align: center;
+}
+.section1 p{
+    text-align: center;
+}
+.section1 h3{
+    text-align: center;
+}
+.section1 ul li{
+    width: 60px;
+    margin-left: 48%;
+}
+.product {
+    list-style-position: inside;
+    text-align: center;
+    list-style: none;
+}
+/********** About-Us **********/
+.about-us{
+    text-align: center;
+    text-indent: 3px;
+}
+.about-us article p{
+    width: 75%;
+    margin-left: 13%;
+}
